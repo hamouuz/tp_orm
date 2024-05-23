@@ -2,14 +2,15 @@
 
 # Lister les données nécessaires :
 
-- Données pour les dépêches AFP :
+Données pour les dépêches AFP :
+
      Identifiant de la dépêche
      Titre de la dépêche
      Contenu de la dépêche
      Date de publication de la dépêche
      Source de la dépêche
      
-- Données pour les articles générés :
+  Données pour les articles générés :
 
      Identifiant de l'article
      Titre de l'article
@@ -20,7 +21,7 @@
      Auteur de l'article (IA générative)
 
      
- - Données pour les illustrations :
+Données pour les illustrations :
  
      Identifiant de l'illustration
      URL de l'illustration
@@ -30,12 +31,13 @@
      Identifiant du tag
      Nom du tag
      
-- Données pour l'IA générative :
+Données pour l'IA générative :
+
     Identifiant de l'IA générative
     Type de l'IA générative (texte ou image)
     Fonction de l'IA générative
     
-- Relations entre les entités :
+Relations entre les entités :
 
     Une dépêche AFP peut générer plusieurs articles.
     Un article peut avoir plusieurs illustrations.
